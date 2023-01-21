@@ -32,4 +32,4 @@ Samirah has several wet lab skills and coding language experiences:
   * MySQL/phpMyAdmin
 
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<img src="/assets/img/OldHeadshot.JPG" alt="Samirah Salifu" style="width:200px;"/>
