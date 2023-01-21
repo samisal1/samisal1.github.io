@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "Samirah Salifu is a chemical engineering student with a passion for learning. Her intrests include drug delivery and sustainability."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+  - image_path: /assets/img/VRMountain.png
     alt: "Drone Mapping"
     title: "Unmanned Aerial Vehicle Cave Mapping Virtual Reality"
     excerpt: "Generating cave environments in virtual reality."
