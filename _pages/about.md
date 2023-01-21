@@ -1,18 +1,15 @@
 ---
 
-title: "About David Florian"
+title: "About Samirah Salifu"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Samirah prides herself on her curiosity and diligence. She is interested in a variety of chemical engineering fields, and always strive to do more.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * Working toward BE Chemical Engineering
 
 ## Technical Skills
 
