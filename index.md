@@ -10,15 +10,15 @@ header:
       url: "/portfolio/"
 excerpt: "Samirah Salifu is a chemical engineering student with a passion for learning. Her intrests include drug delivery and sustainability. "
 feature_row:
-  - image_path: /assets/img/VRMountain.png
+  - image_path: assets/img/VRMountain.png
     alt: "Drone Mapping"
     title: "Unmanned Aerial Vehicle Cave Mapping Virtual Reality"
     excerpt: "Generating cave environments in virtual reality."
-  - image_path: /assets/img/JobScheduler.png
+  - image_path: assets/img/JobScheduler.png
     alt: "Bioinformatics Cloud Computing"
     title: "Bioinformatics Load Balancing Algorithms"
     excerpt: "Assessing load balancing algorithms via cloud computing."
-  - image_path: /assets/img/PetiteSangsue.png
+  - image_path: assets/img/PetiteSangsue.png
     title: "Characterization of Novel Mycobacteriophage PetiteSangsue"
     excerpt: "Discovering and analyzing a new mycobacteriophage. "
 ---
