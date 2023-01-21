@@ -14,7 +14,7 @@ feature_row:
     alt: "Drone Mapping"
     title: "Unmanned Aerial Vehicle Cave Mapping Virtual Reality"
     excerpt: "Generating cave environments in virtual reality."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: /assets/img/Screen Shot 2023-01-21 at 2.35.55 PM.png
     alt: "Bioinformatics Cloud Computing"
     title: "Bioinformatics Load Balancing Algorithms"
     excerpt: "Assesing load balancing algorithms via cloud computing."
