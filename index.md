@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Samirah Salifu is a chemical engineering student with a passion for learning. Her intrests include drug delivery and sustainability."
+excerpt: "Samirah Salifu is a chemical engineering student with a passion for learning. Her intrests include drug delivery and sustainability. "
 feature_row:
   - image_path: /assets/img/VRMountain.png
     alt: "Drone Mapping"
