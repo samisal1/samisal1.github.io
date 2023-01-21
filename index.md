@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/img/Screen Shot 2023-01-21 at 2.35.55 PM.png
     alt: "Bioinformatics Cloud Computing"
     title: "Bioinformatics Load Balancing Algorithms"
-    excerpt: "Assesing load balancing algorithms via cloud computing."
+    excerpt: "Assessing load balancing algorithms via cloud computing."
   - image_path: /assets/img/Samirah Salifu_012.TIF
     title: "Characterization of Novel Mycobacteriophage PetiteSangsue"
     excerpt: "Discovering and analyzing a new mycobacteriophage. "
