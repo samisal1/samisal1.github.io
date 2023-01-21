@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Samirah's Web Page"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,19 +8,19 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Samirah Salifu is a chemical engineering student with a passion for learning. Her intrests include drug delivery and sustainability."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+    alt: "Drone Mapping"
+    title: "Unmanned Aerial Vehicle Cave Mapping Virtual Reality"
+    excerpt: "Generating cave environments in virtual reality."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    alt: "Bioinformatics Cloud Computing"
+    title: "Bioinformatics Load Balancing Algorithms"
+    excerpt: "Assesing load balancing algorithms via cloud computing."
   - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "Characterization of Novel Mycobacteriophage PetiteSangsue"
+    excerpt: "Discovering and analyzing a new mycobacteriophage. "
 ---
 
 {% include feature_row %}
