@@ -3,7 +3,7 @@ title: "Bacteriophage PetiteSangsue"
 excerpt: "PetiteSangsue is a Mycobacterium smegmatis phage that was discovered in Burkesville, KY in 2020. "
 header:
   image: /assets/img/Phages.png
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  teaser: /assets/img/PetiteSangsue.png
 gallery:
   - url: /assets/img/Sequencing.png
     image_path: assets/img/Sequencing.png
