@@ -15,5 +15,5 @@ Load balancing is the process of distributing job requests among servers. There 
 
 [Research Publication](https://ieeexplore.ieee.org/document/9658999)
 
-{% include gallery caption="Figures from this case study" %}
+{% include gallery caption="Figures from this case study." %}
 
