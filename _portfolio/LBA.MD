@@ -2,8 +2,8 @@
 title: "Performance Profiling of Load Balancing Algorithms in a Cloud Architecture"
 excerpt: "Determining which of four load balancing algorithms is the most efficient."
 header:
-  image: /assets/img/Equations.png
-  teaser: /assets/img/Code.png 
+  image: /assets/img/Code.png
+  teaser: /assets/img/Equations.png
 gallery:
   - image_path: assets/img/JobScheduler.png
   - image_path: assets/img/JS2.png
@@ -15,5 +15,5 @@ Load balancing is the process of distributing job requests among servers. There 
 
 [Research Publication](https://ieeexplore.ieee.org/document/9658999)
 
-{% include gallery caption="Figures from this case study." %}
+{% include gallery caption="Figures from this case study" %}
 
