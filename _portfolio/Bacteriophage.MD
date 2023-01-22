@@ -21,4 +21,3 @@ There are approximately 10^31 bacteriophages in the world, but fewer than three 
 
 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
