@@ -3,7 +3,7 @@ title: "Performance Profiling of Load Balancing Algorithms in a Cloud Architectu
 excerpt: "Determining which of four load balancing algorithms is the most efficient."
 header:
   image: /assets/img/Equations.png
-  teaser: /assets/img/Code.png
+  teaser: /assets/img/Code.png 
 gallery:
   - image_path: assets/img/JobScheduler.png
   - image_path: assets/img/JS2.png
