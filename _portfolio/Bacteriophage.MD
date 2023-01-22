@@ -20,5 +20,5 @@ There are approximately 10^31 bacteriophages in the world, but fewer than three 
 
 [PetiteSangsue Database Page](https://phagesdb.org/phages/PetiteSangsue/)
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Figures from this case study." %}
 
